@@ -1,7 +1,7 @@
 
 
 	
-public class icantfeelmyface {
+public class ICantFeelMyFace {
 	
 
 	static String sheToldMe;
